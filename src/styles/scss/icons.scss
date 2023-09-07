@@ -1,0 +1,477 @@
+
+.icon-calc {
+  width: 3rem;
+  height: 3rem;
+  path {
+    stroke: white;
+    stroke-width: 1.5;
+    stroke-miterlimit: 10;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    &.s2 {
+      stroke-width: 2;
+    }
+  }
+}
+
+.icon-docs {
+  width: 3rem;
+  height: 3rem;
+  path {
+    stroke: white;
+    stroke-width: 1.5;
+    stroke-miterlimit: 10;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-learning {
+  width: 3rem;
+  height: 3rem;
+  path {
+    stroke: white;
+    stroke-width: 1.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-chat {
+  width: 3rem;
+  height: 3rem;
+  path {
+    stroke: white;
+    stroke-width: 1.5;
+    stroke-miterlimit: 10;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-help {
+  width: 3rem;
+  height: 3rem;
+  path {
+    stroke: white;
+    stroke-width: 1.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    &.s2 {
+      stroke-miterlimit: 10;
+    }
+  }
+}
+
+.icon-profile {
+  width: 3rem;
+  height: 3rem;
+  path {
+    stroke: white;
+    stroke-width: 1.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-trash {
+  width: 2rem;
+  height: 2rem;
+  path {
+    stroke: #15162F;
+    stroke-opacity: 0.5;
+    stroke-width: 1.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-empty-wallet {
+  width: 2.4rem;
+  height: 2.4rem;
+  path {
+    stroke: #405DBE;
+    stroke-width: 1.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-settings {
+  width: 2.4rem;
+  height: 2.4rem;
+  path {
+    stroke: #405DBE;
+    stroke-width: 1.5;
+    stroke-miterlimit: 10;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-logout {
+  width: 2.4rem;
+  height: 2.4rem;
+  path {
+    stroke: #405DBE;
+    stroke-width: 1.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-ws {
+  width: 4rem;
+  height: 4rem;
+  .s1 {
+    fill: none;
+    stroke: #93D087;
+    stroke-width: 2;
+  }
+  .s2 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #93D087;
+  }
+}
+
+.icon-arr-left {
+  width: 2.9rem;
+  height: 1.4rem;
+  path {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #15162F;
+    fill-opacity: 0.5;
+  }
+}
+
+.icon-sms {
+  width: 2.4rem;
+  height: 2.4rem;
+  path {
+    fill: #15162F;
+  }
+}
+
+.icon-call-calling {
+  width: 2.4rem;
+  height: 2.4rem;
+  path {
+    fill: #292D32;
+  }
+}
+
+.icon-arr-down {
+  width: 0.9rem;
+  height: 0.6rem;
+  path {
+    stroke: white;
+    stroke-width: 1.5;
+    stroke-miterlimit: 10;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-clip {
+  width: 2.4rem;
+  height: 2.6rem;
+  path {
+    stroke: #15162F;
+    stroke-width: 1.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-send {
+  width: 2.8rem;
+  height: 2.8rem;
+  path {
+    stroke: white;
+    stroke-width: 1.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-gallery {
+  width: 3rem;
+  height: 3rem;
+  path {
+    stroke: #15162F;
+    stroke-width: 1.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-document {
+  width: 3rem;
+  height: 3rem;
+  path {
+    stroke: #15162F;
+    stroke-width: 1.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-link {
+  width: 3rem;
+  height: 3rem;
+  path {
+    stroke: #15162F;
+    stroke-width: 1.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-trash-big {
+  width: 3rem;
+  height: 3rem;
+  path {
+    stroke: #15162F;
+    stroke-width: 1.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-service {
+  width: 3.8rem;
+  height: 3.8rem;
+  path {
+    stroke: white;
+    stroke-width: 1.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+  rect {
+    stroke: white;
+    stroke-width: 1.5;
+  }
+  line {
+    stroke: white;
+    stroke-width: 1.5;
+    stroke-linecap: round;
+  }
+}
+
+.icon-logout {
+  width: 3.2rem;
+  height: 3.2rem;
+  circle {
+    stroke-width: 1.5;
+    stroke: #405DBE;
+  }
+  path {
+    stroke-width: 1.5;
+    stroke: #405DBE;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-checkmark {
+  width: 1.2rem;
+  height: 1rem;
+  transition: 0.3s;
+  transform: scale(0);
+  path {
+    stroke-width: 2;
+    stroke: #15162F;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+.available-credits-list {
+  .icon-checkmark {
+    path {
+      stroke: white;
+    }
+  }
+}
+
+.active .icon-checkmark {
+  transition: 0.3s;
+  transform: scale(1);
+}
+
+.icon-glass {
+  width: 3.5rem;
+  height: 3.5rem;
+  path {
+    stroke-width: 2.5;
+    stroke: white;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-close {
+  width: 1rem;
+  height: 1rem;
+  cursor: pointer;
+  path {
+    stroke-width: 1.5;
+    stroke: #15162F;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-sort-up {
+  width: 2.4rem;
+  height: 2.4rem;
+  &.active {
+    path {
+      &.a {
+        stroke: #15162F;
+        transition: 0.3s;
+      }
+      &.b {
+        fill: #15162F;
+        transition: 0.3s;
+      }
+    }
+  }
+  path {
+    &.a {
+      stroke-width: 1.5;
+      stroke: #A1A2AC;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+      transition: 0.3s;
+    }
+    &.b {
+      fill-rule: evenodd;
+      clip-rule: evenodd;
+      fill: #A1A2AC;
+      transition: 0.3s;
+    }
+  }
+}
+
+.icon-sort-down {
+  width: 2.4rem;
+  height: 2.4rem;
+  &.active {
+    path {
+      &.a {
+        stroke: #15162F;
+        transition: 0.3s;
+      }
+      &.b {
+        fill: #15162F;
+        transition: 0.3s;
+      }
+    }
+  }
+  path {
+    &.a {
+      stroke-width: 1.5;
+      stroke: #A1A2AC;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+      transition: 0.3s;
+    }
+    &.b {
+      fill-rule: evenodd;
+      clip-rule: evenodd;
+      fill: #A1A2AC;
+      transition: 0.3s;
+    }
+  }
+}
+
+.icon-briefcase {
+  width: 3.5rem;
+  height: 3.5rem;
+  path {
+    stroke-width: 2.5;
+    stroke: white;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+}
+
+.icon-rate {
+  width: 3rem;
+  height: 3rem;
+  path {
+    stroke-width: 1.5;
+    stroke: white;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-profile-edit {
+  width: 3rem;
+  height: 3rem;
+  path {
+    stroke-width: 1.5;
+    stroke: #405DBE;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+  circle {
+    stroke-width: 1.5;
+    stroke: #405DBE;
+  }
+}
+
+.icon-profile-cancel {
+  width: 3rem;
+  height: 3rem;
+  path {
+    stroke-width: 1.5;
+    stroke: #405DBE;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+  circle {
+    stroke-width: 1.5;
+    stroke: #405DBE;
+  }
+}
+
+.icon-crown {
+  width: 3.5rem;
+  height: 3.5rem;
+  path {
+    stroke-width: 2.5;
+    stroke: white;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.icon-calc2 {
+  width: 4.4rem;
+  height: 4.4rem;
+  path {
+    stroke-width: 3.5;
+    stroke: white;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    &.less {
+      stroke-width: 2.5;
+    }
+  }
+}
+
+.icon-tilda {
+  width: 1.6rem;
+  height: 0.6rem;
+  path {
+    fill: white;
+  }
+}
